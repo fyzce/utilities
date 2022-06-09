@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "init": "^0.1.2",
+    "mongoose": "^6.0.6",
+    "ms": "^3.0.0-canary.1",
+    "random-facts": "^1.0.6",
+    "random-puppy": "^1.1.0",
+    "randomstring": "^1.2.1"
+  }
+}
