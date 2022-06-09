@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const mongoPath = 'YOUR_MONGODB_URL'
+const mongoPath = 'mongodb+srv://Daniel:Daniel1111@danieldb.iusj1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 
 
 
